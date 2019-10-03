@@ -1,6 +1,4 @@
----
-title: Git本地仓库入门教程
----
+
 
 > 详细教程：参考[https://www.liaoxuefeng.com/wiki/896043488029600](https://www.liaoxuefeng.com/wiki/896043488029600)
 
